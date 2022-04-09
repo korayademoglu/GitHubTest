@@ -1,1 +1,3 @@
-print("Hello World")
+merhaba ="Hello World"
+
+print(merhaba)
